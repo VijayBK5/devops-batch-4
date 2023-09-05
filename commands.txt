@@ -4,3 +4,7 @@ git commit
 git log
 git --oneline
 git checkout 
+git clone
+git remote -v
+
+

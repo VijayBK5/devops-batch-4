@@ -7,5 +7,7 @@ git checkout
 git clone
 git remote -v
 git 
-
+git pull
+git fetch
+git push
 
